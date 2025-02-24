@@ -109,7 +109,7 @@ In Firefox on the virtual computer go to the GitHub repository
 1. click on the file in the list "k8s-renew-certificates.sh".
 
 1. Click on the download button to bring this file to the local computer.
-![Download](./.assets/github-download.png)
+![Download](./.assets/github-download.png)<br>
 
 1. Go back to the terminal window.
 
@@ -219,7 +219,7 @@ In Firefox on the virtual computer go to the GitHub repository
 1. click on the file in the list "k8s-renew-certificates.sh".
 
 1. Click on the download button to bring this file to the local computer.
-![Download](./.assets/github-download.png)
+![Download](./.assets/github-download.png)<br>
 
 1. Go back to the terminal window.
 
